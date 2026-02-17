@@ -14,11 +14,11 @@ The increasing prevalence of heart-related illnesses has created a need for simp
 
 The system uses predefined medical thresholds to calculate a risk score and categorize users into:
 
-Low Risk
+<Low Risk
 
-Medium Risk
+=Medium Risk
 
-High Risk
+>High Risk
 
 The application includes login and sign-up functionality to provide controlled access to the analysis module.
 
